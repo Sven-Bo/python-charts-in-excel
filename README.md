@@ -6,7 +6,7 @@ If you are an Excel user then you might have encountered the limitations to do s
 
 ## Video Tutorial
 
-[![YouTube Video](https://img.youtube.com/vi/iqZ2V8qTYq8/0.jpg)](https://youtu.be/iqZ2V8qTYq8)
+[![YouTube Video](https://img.youtube.com/vi/4CrZUJtjZkc/0.jpg)](https://youtu.be/4CrZUJtjZkc)
 
 
 ## Author
