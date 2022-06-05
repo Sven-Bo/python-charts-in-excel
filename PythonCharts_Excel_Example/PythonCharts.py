@@ -41,7 +41,8 @@ def matplotlib_bar_chart(df):
 
 
 def pandas_bar_chart(df):
-    ax = df.plot(kind="bar", x="day", y="tip", color="#50C878", grid=False)
+    df_grouped = df.groupby(by="day", as_index=False).sum()
+    ax = df_grouped.plot(kind="bar", x="day", y="tip", color="#50C878", grid=False)
     fig = ax.get_figure()
     return fig
 
